@@ -3,6 +3,7 @@ title: "Jotai Recipes I Commonly Use for My Project"
 featimage: "https://cdn.buttercms.com/xrVbfdR5TBy4iTaY4xl7"
 description: "To read and modify state on our application with Jotai, we need to use paradigm called Recipes, now lets see how we can utilize those terms to read and modify our state with Jotai"
 publishedAt: "09/30/2023"
+category: "React"
 status: "published"
 featured: true
 author: rimzzlabs

@@ -2,6 +2,7 @@
 title: "Jotai, a beautiful state manager for React dev"
 featimage: "https://themefisher.com/blog-thumb/astro-vs-nextjs.webp"
 description: "When talked about state manager, the first word you could think would probably Redux, but for now let's use another state manager library, introducing Jotai."
+category: "React"
 publishedAt: "07/08/2022"
 status: "published"
 featured: true

@@ -4,6 +4,7 @@ featimage: "https://clickysoft.com/wp-content/uploads/2023/05/React-Performance-
 description: "When talked about state manager, the first word you could think would probably Redux, but for now let's use another state manager library, introducing Jotai."
 publishedAt: "07/08/2022"
 status: "published"
+category: "React"
 featured: true
 author: rimzzlabs
 keywords:
